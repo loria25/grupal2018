@@ -6,7 +6,8 @@ abstract: |
   
 authors: 
 - name: |
-      Author 1,  
+      Author 1,
+      Jessica JL
       Author 1 b
   affiliation: Escuela de Ciencias Biológicas, Universidad Nacional
   
