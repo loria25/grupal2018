@@ -118,7 +118,7 @@ Durante la revisión bibliográfica es importante utilizar estos puntos como cri
 
 Si el estudiante no está familiarizado con las herramientas de búsqueda bibliográfica y bases de datos suscritas por la Universidad Nacional, es su responsabilidad informarse con la bibliotecaria de la Unidad Académica.
 
-# Metodología
+# Metodología..
 
 Definir el procedimiento de análisis. Se basarán en la teoría, en las investigaciones individuales, y en una búsqueda general en línea, para escoger un procedimiento de análisis que permita **calcular la probabilidad de extinción de las poblaciones de interés a cinco años**.
 
